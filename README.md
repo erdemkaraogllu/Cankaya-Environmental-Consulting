@@ -6,7 +6,25 @@
       <img src="https://cankayacevre.com/assets/uploads/6565b2b88c505170116370445.png" height="115px" />
     </td>
     <td align="center" valign="middle">
-      <a href="https://git.io/typing-svg">
+      <p align="center">
+   Çankaya Çevre Danışmanlık Web Sitesi / Cankaya Environmental Consulting Website
+</p>
+
+<!-- Web Site Linki -->
+<p align="center">
+<a href="https://cankayacevre.com/">
+  <img src="https://img.shields.io/badge/cankayacevre.com-E4405F.svg?style=for-the-badge&logo=Website&logoColor=white" alt="Website Link" />
+</a>
+</p>
+    </td>
+  </tr>
+</table>
+
+
+   ## Cankaya-Environmental-Consulting
+
+
+<a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I+am+Erdem+Karao%C4%9Flu;Merhaba%2C+Ben+Erdem+Karao%C4%9Flu" alt="Typing SVG" />
       </a>
       <br>
@@ -21,23 +39,6 @@
       <a href="https://www.linkedin.com/in/erdem-karao%C4%9Flu-b6843124a/">
         <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
       </a>
-    </td>
-  </tr>
-</table>
-
-
-   ## Cankaya-Environmental-Consulting
-
-<p align="center">
-   Çankaya Çevre Danışmanlık Web Sitesi / Cankaya Environmental Consulting Website
-</p>
-
-<!-- Web Site Linki -->
-<p align="center">
-<a href="https://cankayacevre.com/">
-  <img src="https://img.shields.io/badge/cankayacevre.com-E4405F.svg?style=for-the-badge&logo=Website&logoColor=white" alt="Website Link" />
-</a>
-</p>
 
 ## Proje Özellikleri / Project Features
 
