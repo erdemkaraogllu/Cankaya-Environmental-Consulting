@@ -57,3 +57,29 @@
 | **Admin Panel**: The website has a dynamic admin panel for content management. | **Yönetici Paneli**: Web sitesi, içerik yönetimi için dinamik bir yönetici paneline sahiptir. |
 | **SEO Compatibility**: The website is designed in accordance with Google's SEO standards. | **SEO Uyumu**: Web sitesi, Google'ın SEO standartlarına uygun olarak tasarlanmıştır. |
 | **More**: The website possesses an array of additional diverse and rich features. | **Daha Fazlası**: Web sitesi, daha fazla çeşitli ve zengin özelliklere sahiptir. |
+
+<table>
+    <tr>
+        <td>
+<a href="https://git.io/typing-svg">
+                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Language+and+Tools;Dil+ve+Ara%C3%A7lar" alt="Typing SVG" /></a> 
+</td>
+      <td>
+           <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+           </a>
+           <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+           </a>
+           <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+           </a>
+           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+           </a>           
+           <a href="https://www.php.net" target="_blank" rel="noreferrer">
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+           </a>
+      </td>
+</tr>
+</table>
