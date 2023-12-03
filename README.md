@@ -39,6 +39,11 @@
   <a href="https://www.linkedin.com/in/erdem-karao%C4%9Flu-b6843124a/">
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+
+   <!-- Github Bağlantısı -->
+  <a href="https://github.com/erdemkaraogllu">
+    <img src="https://img.shields.io/badge/Github-0077B5.svg?style=for-the-badge&logo=Github&logoColor=white" alt="LinkedIn Badge" />
+  </a>
 </p>
 
 ## Proje Özellikleri / Project Features
