@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td align="center" valign="middle">
-      <img src="https://cankayacevre.com/assets/uploads/6565b2b88c505170116370445.png" width="100%" />
+      <img src="https://cankayacevre.com/assets/uploads/6565b2b88c505170116370445.png" height="115px" />
     </td>
     <td align="center" valign="middle">
       <a href="https://git.io/typing-svg">
