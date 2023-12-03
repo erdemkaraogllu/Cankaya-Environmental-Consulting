@@ -6,6 +6,11 @@
 <p align="center">
    Çankaya Çevre Danışmanlık Web Sitesi / Cankaya Environmental Consulting Website
 </p>
+ <!-- Instagram Bağlantısı -->
+  <a href="https://instagram.com/erdemkaraogllu">
+    <img src="https://img.shields.io/badge/website-E4405F.svg?style=for-the-badge&logo=website&logoColor=white" alt="Instagram Badge" />
+  </a>
+  
 <p align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I+am+Erdem+Karao%C4%9Flu;Merhaba%2C+Ben+Erdem+Karao%C4%9Flu" alt="Typing SVG" /></a>
 </p>
