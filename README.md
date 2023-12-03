@@ -42,7 +42,7 @@
 
    <!-- Github Bağlantısı -->
   <a href="https://github.com/erdemkaraogllu">
-    <img src="https://img.shields.io/badge/Github-0077B5.svg?style=for-the-badge&logo=Github&logoColor=white" alt="LinkedIn Badge" />
+   <img src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white" alt="GitHub Badge" />
   </a>
 </p>
 
