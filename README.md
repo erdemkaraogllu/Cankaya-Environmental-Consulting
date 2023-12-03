@@ -35,14 +35,14 @@
     <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 
-  <!-- LinkedIn Bağlantısı -->
-  <a href="https://www.linkedin.com/in/erdem-karao%C4%9Flu-b6843124a/">
-    <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-
    <!-- Github Bağlantısı -->
   <a href="https://github.com/erdemkaraogllu">
    <img src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  
+  <!-- LinkedIn Bağlantısı -->
+  <a href="https://www.linkedin.com/in/erdem-karao%C4%9Flu-b6843124a/">
+    <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
 
