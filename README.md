@@ -7,8 +7,8 @@
    Çankaya Çevre Danışmanlık Web Sitesi / Cankaya Environmental Consulting Website
 </p>
  <!-- Instagram Bağlantısı -->
-  <a href="https://instagram.com/erdemkaraogllu">
-    <img src="https://img.shields.io/badge/website-E4405F.svg?style=for-the-badge&logo=website&logoColor=white" alt="Instagram Badge" />
+  <a href="https://cankayacevre.com/">
+    <img src="https://img.shields.io/badge/website-E4405F.svg?style=for-the-badge&logo=Website&logoColor=white" alt="Website Link" />
   </a>
   
 <p align="center">
