@@ -6,14 +6,17 @@
 <p align="center">
    Çankaya Çevre Danışmanlık Web Sitesi / Cankaya Environmental Consulting Website
 </p>
- <!-- Instagram Bağlantısı -->
-  <a href="https://cankayacevre.com/">
-    <img src="https://img.shields.io/badge/cankayacevre.com-E4405F.svg?style=for-the-badge&logo=Website&logoColor=white" alt="Website Link" />
-  </a>
-  
+
+<!-- Web Site Linki -->
+<a href="https://cankayacevre.com/">
+  <img src="https://img.shields.io/badge/cankayacevre.com-E4405F.svg?style=for-the-badge&logo=Website&logoColor=white" alt="Website Link" />
+</a>
+
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I+am+Erdem+Karao%C4%9Flu;Merhaba%2C+Ben+Erdem+Karao%C4%9Flu" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I+am+Erdem+Karao%C4%9Flu;Merhaba%2C+Ben+Erdem+Karao%C4%9Flu" alt="Typing SVG" /></a>
 </p>
+
+<!-- İletişim Bilgileri -->
 <p align="center">
   <!-- E-Mail Bağlantısı -->
   <a href="mailto:erdemkaraogllu@gmail.com?subject=[GitHub]%20Contact">
@@ -30,3 +33,13 @@
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
+
+## Proje Özellikleri / Project Features
+Bu bölümde Çankaya Çevre Danışmanlık web sitesinin özellikleri listelenmektedir.
+
+1. **Çok Dilli / Multilingual**: Web sitesi Türkçe ve İngilizce dillerini desteklemektedir. / The website supports both Turkish and English languages.
+2. **SSL Sertifikası / SSL Certificate**: Web sitesi, güvenli bir bağlantı için SSL sertifikasına sahiptir. / The website is secured with an SSL certificate for safe browsing.
+3. **CAPTCHA Alternatifi / CAPTCHA Alternative**: Formlarda, kullanıcı dostu CAPTCHA alternatifleri bulunmaktadır. / The forms include user-friendly CAPTCHA alternatives.
+4. **Responsive Tasarım / Responsive Design**: Web sitesi, tüm cihazlar ve ekran boyutları için uyumlu bir responsive tasarıma sahiptir. / The website features a responsive design compatible with all devices and screen sizes.
+5. **Yönetici Paneli / Admin Panel**: Web sitesi, içerik yönetimi için dinamik bir yönetici paneline sahiptir. / The website has a dynamic admin panel for content management.
+6. **SEO Uyumu / SEO Compatibility**: Web sitesi, Google'ın SEO standartlarına uygun olarak tasarlanmıştır. / The website is designed in accordance with Google's SEO standards.
