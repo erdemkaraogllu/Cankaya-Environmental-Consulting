@@ -3,7 +3,7 @@
 <table>
    <tr>
       <td>
-         <img src="https://cankayacevre.com/assets/uploads/6565b2b88c505170116370445.png" />
+         <img src="https://cankayacevre.com/assets/uploads/6565b2b88c505170116370445.png" style="width: 50%" />
       </td>
       <td>
          <p align="center">
