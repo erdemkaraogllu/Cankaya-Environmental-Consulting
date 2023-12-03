@@ -46,5 +46,3 @@ Bu bölümde Çankaya Çevre Danışmanlık web sitesinin özellikleri listelenm
 | **Responsive Design**: The website features a responsive design compatible with all devices and screen sizes. | **Responsive Tasarım**: Web sitesi, tüm cihazlar ve ekran boyutları için uyumlu bir responsive tasarıma sahiptir. |
 | **Admin Panel**: The website has a dynamic admin panel for content management. | **Yönetici Paneli**: Web sitesi, içerik yönetimi için dinamik bir yönetici paneline sahiptir. |
 | **SEO Compatibility**: The website is designed in accordance with Google's SEO standards. | **SEO Uyumu**: Web sitesi, Google'ın SEO standartlarına uygun olarak tasarlanmıştır. |
-
- SEO Compatibility**: Web sitesi, Google'ın SEO standartlarına uygun olarak tasarlanmıştır. / The website is designed in accordance with Google's SEO standards.
