@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
-
+![Proje Özellikleri / Project Features](https://cankayacevre.com/assets/uploads/6565b2b88c505170116370445.png)
 ## Proje Özellikleri / Project Features
 
 | English | Türkçe |
