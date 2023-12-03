@@ -1,12 +1,16 @@
 # Cankaya-Environmental-Consulting
 Çankaya Çevre Danışmanlık Web Sitesi / Cankaya Environmental Consulting Website
+<table>
+    <tr>
+        <td align="center" valign="center">     
+            <img src="https://cankayacevre.com/assets/uploads/6565b2b88c505170116370445.png">
+        </td>
+        <td align="center" valign="center">
+             <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I+am+Erdem+Karao%C4%9Flu;Merhaba%2C+Ben+Erdem+Karao%C4%9Flu" alt="Typing SVG" /></a>
+        </td>
+    </tr>
+</table>
 
-<p align="center">
-    <img src="https://cankayacevre.com/assets/uploads/6565b2b88c505170116370445.png">
-</p>
-<p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I+am+Erdem+Karao%C4%9Flu;Merhaba%2C+Ben+Erdem+Karao%C4%9Flu" alt="Typing SVG" /></a>
-</p>
 <p align="center">
   <!-- E-Mail Bağlantısı -->
   <a href="mailto:erdemkaraogllu@gmail.com?subject=[GitHub]%20Contact">
