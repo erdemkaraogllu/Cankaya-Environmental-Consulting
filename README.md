@@ -46,8 +46,6 @@
   </a>
 </p>
 
-![Proje Özellikleri / Project Features](https://cankayacevre.com/assets/uploads/6565b2b88c505170116370445.png)
-
 ## Proje Özellikleri / Project Features
 
 | English | Türkçe |
