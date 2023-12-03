@@ -36,8 +36,6 @@
 
 ## Proje Özellikleri / Project Features
 
-Bu bölümde Çankaya Çevre Danışmanlık web sitesinin özellikleri listelenmektedir.
-
 | English | Türkçe |
 | ------- | ------ |
 | **Multilingual**: The website supports both Turkish and English languages. | **Çok Dilli**: Web sitesi Türkçe ve İngilizce dillerini desteklemektedir. |
