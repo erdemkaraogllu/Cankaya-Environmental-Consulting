@@ -44,9 +44,9 @@
   <a href="https://www.linkedin.com/in/erdem-karao%C4%9Flu-b6843124a/">
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-    <!-- LinkedIn Bağlantısı -->
+    <!-- Behance Bağlantısı -->
   <a href="https://www.behance.net/erdemkaraolu">
-    <img src="https://img.shields.io/badge/behance-0077B5.svg?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge" />
+    <img src="https://img.shields.io/badge/behance-0057ff.svg?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge" />
   </a>
 </p>
 
