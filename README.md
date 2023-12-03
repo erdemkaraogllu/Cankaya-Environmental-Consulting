@@ -35,11 +35,16 @@
 </p>
 
 ## Proje Özellikleri / Project Features
+
 Bu bölümde Çankaya Çevre Danışmanlık web sitesinin özellikleri listelenmektedir.
 
-1. **Çok Dilli / Multilingual**: Web sitesi Türkçe ve İngilizce dillerini desteklemektedir. / The website supports both Turkish and English languages.
-2. **SSL Sertifikası / SSL Certificate**: Web sitesi, güvenli bir bağlantı için SSL sertifikasına sahiptir. / The website is secured with an SSL certificate for safe browsing.
-3. **CAPTCHA Alternatifi / CAPTCHA Alternative**: Formlarda, kullanıcı dostu CAPTCHA alternatifleri bulunmaktadır. / The forms include user-friendly CAPTCHA alternatives.
-4. **Responsive Tasarım / Responsive Design**: Web sitesi, tüm cihazlar ve ekran boyutları için uyumlu bir responsive tasarıma sahiptir. / The website features a responsive design compatible with all devices and screen sizes.
-5. **Yönetici Paneli / Admin Panel**: Web sitesi, içerik yönetimi için dinamik bir yönetici paneline sahiptir. / The website has a dynamic admin panel for content management.
-6. **SEO Uyumu / SEO Compatibility**: Web sitesi, Google'ın SEO standartlarına uygun olarak tasarlanmıştır. / The website is designed in accordance with Google's SEO standards.
+| English | Türkçe |
+| ------- | ------ |
+| **Multilingual**: The website supports both Turkish and English languages. | **Çok Dilli**: Web sitesi Türkçe ve İngilizce dillerini desteklemektedir. |
+| **SSL Certificate**: The website is secured with an SSL certificate for safe browsing. | **SSL Sertifikası**: Web sitesi, güvenli bir bağlantı için SSL sertifikasına sahiptir. |
+| **CAPTCHA Alternative**: The forms include user-friendly CAPTCHA alternatives. | **CAPTCHA Alternatifi**: Formlarda, kullanıcı dostu CAPTCHA alternatifleri bulunmaktadır. |
+| **Responsive Design**: The website features a responsive design compatible with all devices and screen sizes. | **Responsive Tasarım**: Web sitesi, tüm cihazlar ve ekran boyutları için uyumlu bir responsive tasarıma sahiptir. |
+| **Admin Panel**: The website has a dynamic admin panel for content management. | **Yönetici Paneli**: Web sitesi, içerik yönetimi için dinamik bir yönetici paneline sahiptir. |
+| **SEO Compatibility**: The website is designed in accordance with Google's SEO standards. | **SEO Uyumu**: Web sitesi, Google'ın SEO standartlarına uygun olarak tasarlanmıştır. |
+
+ SEO Compatibility**: Web sitesi, Google'ın SEO standartlarına uygun olarak tasarlanmıştır. / The website is designed in accordance with Google's SEO standards.
