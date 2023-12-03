@@ -1,8 +1,9 @@
-![Banner](https://cankayacevre.com/assets/uploads/6565b2b88c505170116370445.png)
+<!-- ![Banner](https://cankayacevre.com/assets/uploads/6565b2b88c505170116370445.png) -->
 
 <table>
    <tr>
       <td>
+         <img src="https://cankayacevre.com/assets/uploads/6565b2b88c505170116370445.png" />
       </td>
       <td>
          <p align="center">
