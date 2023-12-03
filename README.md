@@ -4,7 +4,7 @@
 <table align="center" valign="center">
   <tr>
     <td align="center" valign="center">
-      <img src="https://cankayacevre.com/assets/uploads/6565b2b88c505170116370445.png" height="122" />
+      <img src="https://cankayacevre.com/assets/uploads/6565b2b88c505170116370445.png" height="100" />
     </td>
     <td align="center" valign="center">
       <p align="center">
