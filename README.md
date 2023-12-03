@@ -4,7 +4,6 @@
    # Cankaya-Environmental-Consulting
 </p>
 <p align="center">
-   # Cankaya-Environmental-Consulting
    Çankaya Çevre Danışmanlık Web Sitesi / Cankaya Environmental Consulting Website
 </p>
 <p align="center">
