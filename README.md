@@ -58,7 +58,7 @@
 | **SEO Compatibility**: The website is designed in accordance with Google's SEO standards. | **SEO Uyumu**: Web sitesi, Google'ın SEO standartlarına uygun olarak tasarlanmıştır. |
 | **More**: The website possesses an array of additional diverse and rich features. | **Daha Fazlası**: Web sitesi, daha fazla çeşitli ve zengin özelliklere sahiptir. |
 
-<table>
+<table align="center" valign="center">
     <tr>
         <td>
 <a href="https://git.io/typing-svg">
