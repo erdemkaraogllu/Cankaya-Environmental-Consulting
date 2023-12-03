@@ -8,7 +8,7 @@
     </td>
     <td align="center" valign="middle">
       <p align="center">
-   Çankaya Çevre Danışmanlık Web Sitesi / Cankaya Environmental Consulting Website
+   Çankaya Çevre Danışmanlık Web Sitesi <br> Cankaya Environmental Consulting Website
 </p>
 
 <!-- Web Site Linki -->
