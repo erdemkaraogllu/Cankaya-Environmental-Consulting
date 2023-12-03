@@ -1,9 +1,9 @@
 ![Banner](https://cankayacevre.com/assets/uploads/6565b2b88c505170116370445.png)
 
 # Cankaya-Environmental-Consulting
-Çankaya Çevre Danışmanlık Web Sitesi / Cankaya Environmental Consulting Website
-
-
+<p align="center">
+   Çankaya Çevre Danışmanlık Web Sitesi / Cankaya Environmental Consulting Website
+</p>
 <p align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I+am+Erdem+Karao%C4%9Flu;Merhaba%2C+Ben+Erdem+Karao%C4%9Flu" alt="Typing SVG" /></a>
 </p>
