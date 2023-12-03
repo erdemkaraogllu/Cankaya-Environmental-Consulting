@@ -8,7 +8,7 @@
 </p>
  <!-- Instagram Bağlantısı -->
   <a href="https://cankayacevre.com/">
-    <img src="https://img.shields.io/badge/website-E4405F.svg?style=for-the-badge&logo=Websiteeee&logoColor=white" alt="Website Link" />
+    <img src="https://img.shields.io/badge/websiteee-E4405F.svg?style=for-the-badge&logo=Website&logoColor=white" alt="Website Link" />
   </a>
   
 <p align="center">
