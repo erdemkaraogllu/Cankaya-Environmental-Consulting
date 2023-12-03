@@ -14,7 +14,7 @@
 <!-- Web Site Linki -->
 <p align="center">
 <a href="https://cankayacevre.com/">
-  <img src="https://img.shields.io/badge/cankayacevre.com-E4405F.svg?style=for-the-badge&logo=Website&logoColor=white" alt="Website Link" />
+  <img src="https://img.shields.io/badge/cankayacevre.com-a6cd3b.svg?style=for-the-badge&logo=Website&logoColor=white" alt="Website Link" />
 </a>
 </p>
     </td>
