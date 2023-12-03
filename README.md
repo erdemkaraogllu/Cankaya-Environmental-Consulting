@@ -8,9 +8,11 @@
 </p>
 
 <!-- Web Site Linki -->
+<p align="center">
 <a href="https://cankayacevre.com/">
   <img src="https://img.shields.io/badge/cankayacevre.com-E4405F.svg?style=for-the-badge&logo=Website&logoColor=white" alt="Website Link" />
 </a>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I+am+Erdem+Karao%C4%9Flu;Merhaba%2C+Ben+Erdem+Karao%C4%9Flu" alt="Typing SVG" /></a>
